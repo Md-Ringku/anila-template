@@ -1,0 +1,796 @@
+@media (max-width:499px) {
+    section{
+        overflow: hidden;
+    }
+    .navbar-light .navbar-brand {
+    color: #fff;
+    font-size: 30px;
+    line-height: 26px;
+    font-weight: bold;
+}
+    button.navbar-toggler {
+    background: #fff;
+}
+    .banner-content {
+    color: #fff;
+    text-align: center;
+    transform: translateY(109px);
+}
+    .banner-content h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+    #banner {
+    background-image: linear-gradient(#000000c4, #00000052), url(../image/main-banner.png);
+    height: 599px;
+   
+}
+    .banner-content p {
+    font-size: 16px;
+    color: #fff;
+}
+    .yogo-left-content img {
+    height: 100%;
+    width: 100%;
+    margin-top: 0px;
+    z-index: 99999;
+}
+    .yogo-left-content {
+    height: 348px;
+}
+    .yoga-right-content {
+    padding-left: 0px;
+}
+    .yoga-title p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #757575;
+    margin-bottom: 26px;
+}
+    .yoga-title h2 {
+    font-weight: bold;
+    font-size: 31px;
+    color: #1b1b1b;
+    margin-bottom: 18px;
+}
+    .yoga-title {
+    margin-top: 27px;
+}
+    .yoga-list ul li {
+    font-size: 16px;
+    font-weight: bold;
+    color: #757575;
+    margin-bottom: 10px;
+}
+    .single_icon_box h3 {
+    font-size: 37px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+    .single_icon_box h6 {
+    font-size: 18px;
+}
+    .col-lg-3.col-md-6.col-sm-10.col-10.icon_box {
+    margin: auto;
+}
+    .service-top-content h2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #1b1b1b;
+}
+    .service-top-content span {
+    font-size: 28px;
+    font-weight: 400;
+}
+    .col-3.service-icon img {
+    width: 100%;
+}
+    .service-right-content img {
+    width: 100%;
+    margin-top: 10px;
+}
+    .watch-title h2 {
+    color: #fff;
+    font-size: 39px;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+    .watch-title p {
+    font-size: 29px;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+    #watch-section {
+    background-image: url(../image/wacth-bg.png);
+    height: 524px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+    
+.video-section {
+    height: 300px;
+    margin-top: 54px;
+   
+}
+    .video-shape {
+    position: absolute;
+    width: 78%;
+    border-top: 37px solid #dfdfdf;
+    top: 142px;
+    left: 33px;
+    border-radius: 20px;
+}
+    section#class-section {
+    padding-top: 48px;
+    padding-bottom: 0px;
+}
+    .image-title h4 span {
+    margin-left: 29px;
+    background: #9ecc6e;
+    color: #fff;
+    padding: 3px 9px;
+    border-radius: 100%;
+    font-size: 15px;
+}
+    .image-title h4 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #1b1b1b;
+}
+    .class-item3 h2 {
+    font-size: 29px;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 13px;
+}
+    .class-item3 p {
+    font-size: 18px;
+    font-weight: 400;
+}
+    .carusel-content p {
+    color: #fff;
+    font-size: 19px;
+    font-weight: 400;
+}
+    .testimonial-title h3 {
+    font-size: 34px;
+    font-weight: bold;
+    color: #fff;
+    font-family: 'Playfair Display', serif;
+}
+    .testimonial-title h2 {
+    color: #fff;
+    font-size: 47px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+    .testimonial-content {
+    padding-top: 10px;
+    text-align: center;
+}
+    #testimonial {
+    background-image: url(../image/wacth-bg.png);
+    height: 658px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 30px;
+}
+    .class-btn {
+    margin-top: 114px;
+    text-align: center;
+    padding-bottom: 23px;
+}
+    .price-title h3 {
+    color: #1b1b1b;
+    font-size: 29px;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+    .price-title h2 {
+    font-size: 37px;
+    font-family: 'Playfair Display', serif;
+    color: #1b1b1b;
+    font-weight: bold;
+}
+    .upcoming-title h2 {
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+}
+    .upcoming-title h3 {
+    font-size: 26px;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+}
+    .upcoming-btn {
+    margin-top: 35px;
+    text-align: left;
+}
+    .upcoming-item {
+    background-image: url(../image/yoga1.jpg);
+    height: 186px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 80%;
+    margin: auto;
+        margin-bottom: 50px;
+}
+    .upcoming-item h3 {
+    color: #95be69;
+    font-size: 18px;
+    font-weight: bold;
+}
+    .footer-logo-top {
+    margin-top: 14px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+    .footer-logo-top a {
+    color: #fff;
+    font-size: 38px;
+    font-weight: bold;
+    line-height: 32px;
+}
+    .footer-top-right-address {
+    text-align: center;
+}
+    .row.footer-main-widget {
+    padding: 50px 0px;
+    text-align: center;
+}
+    .widget1, .widget2 {
+    margin-bottom: 40px;
+        padding-left: 0;
+}
+    h2.footer-widget-title:before {
+   display: none;
+    left: 93px;
+}
+    .col-md-9.reserved-left h3 {
+    font-size: 16px;
+    color: #979797;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 9px;
+}
+    .col-md-3.reserved-right h3 {
+    font-size: 18px;
+    margin-bottom: 0px;
+    color: #979797;
+    font-weight: 400;
+    text-align: center;
+}
+  .col-sm-4.col-md-4.col-lg-4.col-4.circle {
+    width: 41% !important;
+    margin-left: 26px;
+}
+    .footer-widget-title {
+    color: #fff;
+    font-weight: bold;
+    font-size: 38px;
+    position: relative;
+    width: fit-content;
+    margin: auto;
+    border-bottom: 3px solid #9ecc6e;
+}
+    .row.widget3 {
+    margin-top: 37px;
+}
+}
+
+@media (min-width:500px) {
+ .navbar-light .navbar-brand {
+    font-size: 46px;
+    line-height: 34px;
+}
+    button.navbar-toggler {
+    background: #fff;
+}
+    
+ #banner {
+    height: 815px;
+   
+}   
+ .banner-content {
+    color: #fff;
+    text-align: center;
+    transform: translateY(200px);
+}
+    .banner-content h1 {
+    font-size: 87px;
+    font-weight: bold;
+}
+    
+ .banner-content p {
+    font-size: 18px;
+    color: #fff;
+}
+    .col-lg-3.col-md-6.col-sm-10.col-10.icon_box {
+    margin: auto;
+}
+    .service-right-content img {
+    width: 100%;
+    margin-top: 30px;
+}
+    .watch-title h2 {
+    color: #fff;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+    .watch-title p {
+    font-size: 45px;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+    .video-shape {
+    position: absolute;
+    width: 78%;
+    border-top: 37px solid #dfdfdf;
+    top: 215px;
+    left: 58px;
+    border-radius: 20px;
+}
+    .video-section {
+    background-image: url(../image/watch.png);
+    height: 411px;
+    margin-top: 82px;
+    box-shadow: 2px 11px 16px 4px #0000004f;
+    z-index: 1;
+}
+ #watch-section {
+    background-image: url(../image/wacth-bg.png);
+    height: 588px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+    .image-title h4 span {
+    margin-left: 168px;
+    background: #9ecc6e;
+    color: #fff;
+    padding: 3px 9px;
+    border-radius: 100%;
+    font-size: 15px;
+}
+    .class-item3 h2 {
+    font-size: 44px;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+    #testimonial {
+   
+    margin-top: 58px;
+}
+    .testimonial-title h3 {
+    font-size: 42px;
+    font-weight: bold;
+    color: #fff;
+    font-family: 'Playfair Display', serif;
+}
+    .testimonial-title h2 {
+    color: #fff;
+    font-size: 69px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+    .carusel-content p {
+    color: #fff;
+    font-size: 21px;
+    font-weight: 400;
+}
+    .price-title h3 {
+    color: #1b1b1b;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+    .price-title h2 {
+    font-size: 55px;
+    font-family: 'Playfair Display', serif;
+    color: #1b1b1b;
+    font-weight: bold;
+}
+    .upcoming-title h3 {
+    font-size: 34px;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+}
+    .upcoming-title h2 {
+    font-size: 55px;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+}
+    .upcoming-btn {
+    margin-top: 35px;
+    text-align: left;
+}
+    .upcoming-item {
+    background-image: url(../image/yoga1.jpg);
+    height: 238px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 78%;
+    margin: auto;
+    margin-bottom: 39px;
+}
+    .footer-logo-top {
+    margin-top: 14px;
+    margin-bottom: 35px;
+    margin-left: 35px;
+}
+    .footer-top-right-address {
+    text-align: left;
+    margin-left: 37px;
+}
+    .widget1 {
+    margin-bottom: 43px;
+        padding: 0px 10px;
+    margin-left: 16px;
+}
+ 
+     .widget2 {
+    margin-bottom: 43px;
+        padding: 0px 10px;
+    margin-left: 16px;
+}
+ .widget3 {
+    margin-bottom: 0px;
+    padding: 0px 10px;
+    margin-left: 14px;
+}
+ .col-md-9.reserved-left {
+    padding: 0px;
+    text-align: center;
+}
+    .col-md-3.reserved-right {
+    text-align: center;
+    padding: 12px 0px;
+}
+    
+    
+   
+}
+
+@media (min-width:765px) {
+    .navbar-light .navbar-brand {
+    font-size: 51px;
+    line-height: 34px;
+}
+    .banner-content h1 {
+    font-size: 100px;
+    font-weight: bold;
+}
+    .banner-content p {
+    font-size: 22px;
+    color: #fff;
+}
+    .col-lg-3.col-md-6.col-sm-10.col-10.m-auto.m-auto.mb-3.icon-box1 {
+    margin-top: 19px !important;
+}
+    #watch-section {
+    background-image: url(../image/wacth-bg.png);
+    height: 631px;
+   
+}
+    .image-title h4 span {
+    margin-left: 382px;
+   
+}
+    .class-img4 img {
+    width: 100%;
+    height: 525px;
+}
+    .upcoming-item {
+    background-image: url(../image/yoga1.jpg);
+    height: 342px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 77%;
+    margin: auto;
+    margin-bottom: 39px;
+}
+    .upcoming-item h3 {
+    color: #95be69;
+    font-size: 25px;
+    font-weight: bold;
+}
+    .footer-widget-circle {
+   width: 100%;
+    height: 130px;
+    background: #9ecc6e;
+    border-radius: 22px;
+    margin-bottom: 19px;
+    margin-right: 0px;
+}
+}
+
+@media (min-width:992px) {
+    #banner {
+    height: 980px;
+}
+    .widget3 {
+    margin-bottom: 0px;
+    padding: 0px 10px;
+    margin-left: -17px;
+    margin-top: 35px;
+}
+    .yogo-left-content {
+    height: 786px;
+}
+    .banner-content {
+    color: #fff;
+    text-align: center;
+    transform: translateY(274px);
+}
+    .banner-content h1 {
+    font-size: 116px;
+    font-weight: bold;
+}
+    .banner-content p {
+    font-size: 24px;
+    color: #fff;
+}
+    .service-right-content img {
+    width: 100%;
+    margin-top: 0px;
+}
+    .col-3.service-icon img {
+    width: 100%;
+}
+    .video-shape {
+    position: absolute;
+    width: 78%;
+    border-top: 37px solid #dfdfdf;
+    top: 215px;
+    left: 85px;
+    border-radius: 20px;
+}
+    .watch-title h2 {
+    color: #fff;
+    font-size: 88px;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+    .watch-title p {
+    font-size: 64px;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+    #watch-section {
+    background-image: url(../image/wacth-bg.png);
+    height: 695px;
+}
+    .video-shape {
+    position: absolute;
+    width: 78%;
+    border-top: 37px solid #dfdfdf;
+    top: 270px;
+    left: 85px;
+    border-radius: 20px;
+}
+    .image-title h4 span {
+    margin-left: 21px;
+}
+    .image-title h4 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #1b1b1b;
+}
+    .class-img4 img {
+    width: 100%;
+    height: 326px;
+}
+    #testimonial {
+    background-image: url(../image/wacth-bg.png);
+    height: 840px;
+    background-position: center;
+    background-size: cover;
+    margin-top: -72px;
+}
+    .class-img img {
+    width: 100%;
+    height: 281px;
+}
+.price-item {
+   
+    height: 751px;
+}    
+    .price-all-content {
+    background: #95be69;
+    height: 751px;
+    border-radius: 10px;
+    padding: 29px 23px;
+}
+
+    .footer-top-right-address {
+    text-align: right;
+    margin-left: 37px;
+}
+ .footer-widget-circle {
+    width: 100%;
+    height: 75px;
+    background: #9ecc6e;
+    border-radius: 22px;
+    margin-bottom: 19px;
+    margin-right: 0px;
+}
+    .col-md-3.reserved-right {
+    text-align: right;
+    padding: 0;
+}
+    .col-md-9.reserved-left {
+    padding: 0px;
+    text-align: left;
+}
+    .upcoming-item {
+    background-image: url(../image/yoga1.jpg);
+    height: 229px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 91%;
+     margin:0;
+    margin-bottom:0;
+}
+    
+}
+
+
+@media (min-width:1200px){
+    .banner-content {
+    color: #fff;
+    text-align: center;
+    transform: translateY(280px);
+}
+    .banner-content h1 {
+    font-size: 130px;
+    font-weight: bold;
+}
+    .banner-content p {
+    font-size: 25px;
+    color: #fff;
+}
+    .yogo-left-content {
+    height: 658px;
+}
+   
+    .service-right-content img {
+    width: 100%;
+    margin-top: -98px;
+}
+    #watch-section {
+    background-image: url(../image/wacth-bg.png);
+    height: 715px;
+    
+}
+    .watch-title h2 {
+    color: #fff;
+    font-size: 101px;
+}
+    .watch-title p {
+    font-size: 59px;
+   
+}
+    .video-shape {
+    position: absolute;
+    width: 78%;
+    border-top: 37px solid #dfdfdf;
+    top: 238px;
+    left: 113px;
+    border-radius: 20px;
+}
+    .video-section {
+    height: 470px;
+    margin-top: 36px;
+   
+}
+    .image-title h4 {
+    font-size: 22px;
+    font-weight: bold;
+    color: #1b1b1b;
+}
+    .image-title h4 span {
+    margin-left: 43px;
+    background: #9ecc6e;
+    color: #fff;
+    padding: 3px 9px;
+    border-radius: 100%;
+    font-size: 15px;
+}
+    .class-item3 h2 {
+    font-size: 55px;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+    .class-item4 {
+    margin-top: 44px;
+}
+    .testimonial-title h3 {
+    font-size: 59px;
+    
+}
+    .testimonial-title h2 {
+    color: #fff;
+    font-size: 101px;
+    
+}
+    #testimonial {
+    background-image: url(../image/wacth-bg.png);
+    height: 840px;
+    background-position: center;
+    background-size: cover;
+    margin-top: -89px;
+}
+    .carusel-content p {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 400;
+}
+    .price-title h3 {
+    color: #1b1b1b;
+    font-size: 59px;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
+    .price-title h2 {
+    font-size: 101px;
+    font-family: 'Playfair Display', serif;
+    color: #1b1b1b;
+    font-weight: bold;
+}
+    .price-item {
+    text-align: center;
+    box-shadow: 1px 0px 10px 9px #e8e8e8;
+    padding: 29px 23px;
+    border-radius: 10px;
+    height: 650px;
+}
+    .price-all-content {
+    background: #95be69;
+    height: 629px;
+    border-radius: 10px;
+    padding: 29px 23px;
+}
+    .upcoming-title h2 {
+    font-size: 65px;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+}
+    .upcoming-title h3 {
+    font-size: 38px;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+}
+    .upcoming-btn {
+    margin-top: 35px;
+    text-align: end;
+}
+    .upcoming-item {
+    background-image: url(../image/yoga1.jpg);
+    height: 238px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 91%;
+}
+    .upcoming-item h3 {
+    color: #95be69;
+    font-size: 29px;
+    font-weight: bold;
+}
+}
